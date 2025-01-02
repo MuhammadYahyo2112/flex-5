@@ -1,0 +1,55 @@
+ul {
+    display: flex;
+    gap: 300px;
+    list-style: none;
+    font-size: 20;
+}
+
+li {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 40px;
+    padding: 10px 10px 0px 0px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.oybe {
+    display: flex;
+    width: 500px;
+    height: 250px;
+    gap: 200px;
+    margin: 90px 0px 0px 150px;
+}
+
+.zidan {
+    display: flex;
+    width: 264px;
+    height: 118px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    margin: 50px 0px 100px 530px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.ota{
+    display: flex;
+    gap: 200px;
+    margin: 0px 0px 0px 0px;
+    justify-content: center;
+    align-items: center;
+
+}
+.bola{
+    width: 300px;
+    height: 109px;
+    background-color: yellowgreen;
+    color: #000;
+    border: red 50px solid;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
